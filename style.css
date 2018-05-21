@@ -44,7 +44,7 @@ aside nav ul li a {
     padding:8px 20px;
 }
 aside nav ul li a:hover{
-    background:#212121;
+    background:#0b4da2;
     color:#FFF;
 }
  
@@ -97,10 +97,30 @@ address {
     display: block;
     font-style: italic;
 } 
+
+button {
+    margin-top: 30px;
+    background:#f26522;
+    border: solid 3px #fff;
+    border-radius: 5px;
+
+}
+
+button a {
+    text-decoration: none;
+    color:#000;background:#f26522;
+    padding:8px 20px;
+}
+
+button a:hover{
+    background:#0b4da2;
+    color:#FFF;
+}
+
 footer {
     clear:both;
-    color:#FFF;
-    background:#121212;
+    color:#fff;
+    background:#0b4da2;
     text-align:center;
-    padding:15px 0 15px 30px;
+    padding:15px 30px 15px 30px;
 }
